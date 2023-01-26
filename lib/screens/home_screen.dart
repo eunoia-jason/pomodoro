@@ -74,7 +74,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 format(totalSeconds),
                 style: TextStyle(
                   color: Theme.of(context).cardColor,
-                  fontSize: 84,
+                  fontSize: 83,
                   fontWeight: FontWeight.w600,
                 ),
               ),
